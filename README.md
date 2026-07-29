@@ -2,6 +2,8 @@
 
 A simple web app that connects a webpage to a MySQL database using HTML, CSS, JavaScript, and PHP.
 
+**Live demo:** [togglestatus.freedev.app](http://togglestatus.freedev.app/index.php)
+
 ## What it does
 - A one-line form to submit a **Name** and **Age**.
 - Submitted data is saved into a MySQL table (`users`).
